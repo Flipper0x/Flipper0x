@@ -1,4 +1,4 @@
-# Flipper0x 
+ # Flipper0x 
 A Decentralized shapeshift for Aragon DAOs with continuous liquidity. 
 
 ## Problem
@@ -66,6 +66,11 @@ Total deposited funds in the relay are used to curate a list view of relayers wi
 ### Milestones
 Flipper0x is an open source project. Development will be incentivized for by placing bounties in ETH and DNT for all milestone tasks on Status [Open Bounty](https://openbounty.status.im) and [Ethlance](ethlance.com)
 
+A list of bounties can be found here in the bounties repo (issues)
+https://github.com/Flipper0x/bounties
+
+Ethlance job post can be found here 
+https://ethlance.com/#/job/286
 
 
 Stage 1: 
