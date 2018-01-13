@@ -29,7 +29,7 @@ This explanation of how bancor relayers work was adapted from this article great
 ### Who provides liquidity?
 In the example of a BPT-ETH relayer, people that own BPT or ETH tokens can transfer them into the Token Relay, and receive an 'IOU' token called BPT-ETH. Anyone can place some of their long-term holdings of BPT or ETH into the Token Relay and provide liquidity while watching their holdings grow.
 
-### d0xINFRA framework 
+### D0xINFRA framework 
 Relayers are analogous to curation markets in that they mint and burn tokens at a price dependant on a bonding curve.
 
 Using the d0xINFRA framework, relayers will be the equivalent of memes in [memefactory](memefactory.io). By depositing their token they will receive the relayers intermediate token in exchange. This can be displayed as an upvote for curation of the relayer in the interface. 
@@ -49,7 +49,7 @@ Flipper0x has a mobile-first interface built for, status, cipher, and toshi.
 
 In addition to being fully decentralized, users do not need to add a send or receive addresses. Flipper0x uses the sends and receives from the wallet used for web3 injection (metamask, or mobile browser interface)
 
-### liquidity 
+### Liquidity 
 In the medium to long-term, we expect 0x Protocol to have massive amounts of volume. Flipper0x relayers will be connected 0x through bots arbitraging the price and connecting the liquidity pools.
 
 This will be of great benefit to small-cap tokens by providing a market maker service as well as giving HODLers the opportunity to grow their stake in the projects they believe in.
@@ -69,7 +69,7 @@ Flipper0x is an open source project. Development will be incentivized for by pla
 
 
 Stage 1: 
-- [ ] Conceptual outline
+- [x] Conceptual outline
 - [ ] Wireframes
 - [ ] Artwork and branding  
 - [ ] Clickable demo with initial pair 
