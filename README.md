@@ -122,4 +122,5 @@ Stage 1:
 - [ ] modify districts carbon voting
 
 Telegram: [T.me/Flipper0x](t.me/Flipper0x)
+
 Address: 0x4875d7B642E68F216B36737e90733eB9951D9E67
