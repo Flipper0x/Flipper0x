@@ -1,5 +1,5 @@
 # Flipper0x 
-A Decentralized shapeshift for small cap tokend with continuous liquidity. 
+A Decentralized shapeshift for small-cap tokens with continuous liquidity. 
 
 ## Problem
 Decentralised exchange is mission critical infrastructure for tokenized projects. 0x Protocol is a giant leap forward enabling the long tail of tokens. However for the time being liquidity remains thin, there is no simple mechanism for incentivizing market makers, and the [radarrelay](radarrelay.com) UX is too complex for the average user. 
@@ -13,7 +13,7 @@ Any longterm holder of ETH FL0X or any token listed on Flipper0x  can use their 
  
 
 ### Token Relayer
-Each pair is a token relayer built on bancor. A token relayer is a automated market maker giving the tokens continuous liquidity.
+Each pair is a token relayer built on bancor. A token relayer is an automated market maker giving the tokens continuous liquidity.
 
 
 ### How it works 
@@ -87,16 +87,16 @@ Fees collected from relayers and any advertising revenue will be distributed to 
 
 ### Governance 
 
-Flipper0x will be governed by token weighted direct democracy. All the DAOs parameters are subject to change by token holders including the governance system it's self.
+Flipper0x will be governed by token weighted direct democracy. All the DAOs parameters are subject to change by token holders including the governance system its self.
 
-Direct democracy is a simple and agile system. However as the organisation grows, a more scalable governance system will be needed.
+Direct democracy is a simple and agile system. However, as the organization grows, a more scalable governance system will be needed.
 
 All the organization's assets will be transferred to a AragonOS with the launch of the mainnet release.
    
 ### Conclusion 
-Achieving liquidity will be a major concern for small scale DAOs. Flipper0x will provide a mechanism for for these types of projects.
+Achieving liquidity will be a major concern for small-scale DAOs. Flipper0x will provide a mechanism for these types of projects.
 
-If your an graphics designer, front/back end dev, or just interested in the idea join the conversation and earn some tokens! 
+If your a graphics designer, front/back-end dev, or just interested in the idea join the conversation and earn some tokens! 
 
 [T.me/Flipper0x](t.me/Flipper0x)
 
@@ -134,4 +134,3 @@ Stage 1:
 Telegram: [T.me/Flipper0x](t.me/Flipper0x)
 
 Address: 0x4875d7B642E68F216B36737e90733eB9951D9E67
-
