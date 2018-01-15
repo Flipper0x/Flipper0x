@@ -41,7 +41,7 @@ Using the d0xINFRA framework, relayers will be the equivalent of memes in [memef
 ### User experience 
 Bancor relayers do not require an order book and thus lends itself to a very simple intuitive UX, the interface has three views
 
-1. design is based on shapeshift. Users select the token they want (DNT-ANT), the amount of tokens they want to buy or sell, and the price is displayed.
+1. design is based on shapeshift. Users select the token they want (DNT-DAI), the amount of tokens they want to buy or sell, and the price is displayed.
 
 2. A list of (ETH, DAI) pairs curated by the most capitalized
 
