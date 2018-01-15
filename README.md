@@ -9,7 +9,7 @@ Flipper0x is a fully decentralized shapeshift alternative for tokens within the 
 
 All the tokens listed will have ETH and DAI pairs
 
-Any longterm holder of ETH ANT or any token within the Aragon Network can use their holdings to earn fees for providing this continuous liquidity by holding the intermittent token of a relayer.
+Any longterm holder of ETH FL0X or any token listed on Flipper0x  can use their holdings to earn fees for providing this continuous liquidity by holding the intermittent token of a relayer.
  
 
 ### Token Relayer
@@ -119,6 +119,7 @@ Stage 1 bounties:
 
 Stage 1: 
 - [x] Conceptual outline
+- [x] initial funding 
 - [x] Mint token
 - [x] Setup Bounties 
 - [ ] Wireframes
@@ -128,8 +129,9 @@ Stage 1:
 - [ ] Deploy relayers to kovan testnet
 - [ ] connect Flipper0x interface and frontend contracts to relayer
 - [ ] Integrate into status
-- [ ]  Carbon voting
+- [ ] Carbon voting
 
 Telegram: [T.me/Flipper0x](t.me/Flipper0x)
 
 Address: 0x4875d7B642E68F216B36737e90733eB9951D9E67
+
