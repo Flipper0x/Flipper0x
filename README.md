@@ -1,4 +1,3 @@
-
 # Flipper0x 
 A Decentralized shapeshift for small cap tokend with continuous liquidity. 
 
@@ -69,7 +68,12 @@ Total deposited funds in the relay are used to curate a list view of relayers wi
 - Retained: 200,000 FL0X 
 - Founders and Advisors: 0 FL0X ☺
 
-Contract: 0xa13F7D0f7e67B1d62bAa72a8CB9C32774f19c444
+Contract:  0xa13F7D0f7e67B1d62bAa72a8CB9C32774f19c444
+Decimals: 18
+Ticker: FL0X
+Token Tracker:
+[Click here](https://etherscan.io/token/0xa13f7d0f7e67b1d62baa72a8cb9c32774f19c444)
+
 
 FL0X is a asset backed governance token. All decisions from development bounties to funding relayers will be decided by token holders.
 
@@ -115,6 +119,8 @@ Stage 1 bounties:
 
 Stage 1: 
 - [x] Conceptual outline
+- [x] Mint token
+- [x] Setup Bounties 
 - [ ] Wireframes
 - [ ] Artwork and branding  
 - [ ] Clickable demo with initial pair 
@@ -122,7 +128,7 @@ Stage 1:
 - [ ] Deploy relayers to kovan testnet
 - [ ] connect Flipper0x interface and frontend contracts to relayer
 - [ ] Integrate into status
-- [ ] modify districts carbon voting
+- [ ]  Carbon voting
 
 Telegram: [T.me/Flipper0x](t.me/Flipper0x)
 
