@@ -2,10 +2,10 @@
 A Decentralized ShapeShift for small-cap tokens with continuous liquidity. 
 
 ## Problem
-Decentralised exchange is mission critical infrastructure for tokenized projects. The 0x Protocol is a giant leap forward enabling the long tail of tokens. However for the time being liquidity remains thin, there is no simple mechanism for incentivizing market makers, and the [radarrelay](http://radarrelay.com) UX is too complex for the average user. 
+Decentralised exchange is mission critical infrastructure for tokenized projects. The (0x Protocol)[https://0xproject.com] is a giant leap forward enabling the long tail of tokens. However for the time being liquidity remains thin, there is no simple mechanism for incentivizing market makers, and the [radarrelay](https://radarrelay.com) UX is too complex for the average user. 
 
 ## Solution
-Flipper0x is a fully decentralized ShapeShift alternative for tokens within the Aragon Network. There is no counterparty risk and Tokens listed on Flipper0x have continuous liquidity using the Bancor Protocol as an automated market maker.
+Flipper0x is a fully decentralized ShapeShift alternative for tokens within the Aragon Network. There is no counterparty risk and Tokens listed on Flipper0x have continuous liquidity using the [Bancor Protocol](https://about.bancor.network/protocol) as an automated market maker.
 
 All the tokens listed will have ETH and DAI pairs.
 
@@ -17,7 +17,7 @@ Each pair is a token relayer built on Bancor. A token relayer is an automated ma
 ### How it works
 - Alice, a [BitPoint Network](http://bitpoint.network) teller wants to buy some BPT tokens 
 - She sends ETH to the token relayer, which would buy an intermediate token called BPT-ETH. This BPT-ETH token would then be exchanged again for BPT.
-- This intermediate step will be abstracted away in the exchange interface to improve user experience; there will be a separate interface similar to [memefactory](memefactory.io) for investing liquidity in a relayer.
+- This intermediate step will be abstracted away in the exchange interface to improve user experience; there will be a separate interface similar to [memefactory](https://memefactory.io) for investing liquidity in a relayer.
 - The fee for each of these conversions would be 0.1%, and since two transactions took place the total fee would be 0.2%.
 - The token relayer has a stock of each of the tokens (BPT & ETH), and they are priced based on the quantity of each token in the contract. If BitPoint Network users see BPT priced slightly cheaper than market value (radarrelay), they'll have an incentive to purchase it, shifting the pricing back up to normal. If ETH is cheaper in comparison, then users may sell their BPT at a premium.
 
@@ -33,7 +33,7 @@ This will be of great benefit to small-cap tokens by providing a market maker se
 ### D0xINFRA framework 
 Relayers are analogous to curation markets in that they mint and burn tokens at a price dependant on a bonding curve.
 
-Using the d0xINFRA framework, relayers will be the equivalent of memes in [memefactory](http://memefactory.io). By depositing their token users will receive the relayer's intermediate token in exchange. This can be displayed as an upvote for curation of the relayer in the interface. 
+Using the d0xINFRA framework, relayers will be the equivalent of memes in [memefactory](https://memefactory.io). By depositing their token users will receive the relayer's intermediate token in exchange. This can be displayed as an upvote for curation of the relayer in the interface. 
 
 ### User experience
 Bancor relayers do not require an order book which leads to a very simple and intuitive UX, similar to that of ShapeShift. The interface has three views:
@@ -93,10 +93,10 @@ Achieving liquidity will be a major concern for small-scale DAOs. Flipper0x will
 
 If you're a graphics designer, front/back-end dev, or just interested in the idea join the conversation and earn some tokens! 
 
-[T.me/Flipper0x](t.me/Flipper0x)
+[T.me/Flipper0x](https://t.me/Flipper0x)
 
 ### Milestones
-Flipper0x is an open source project. Development will be incentivized for by placing bounties in ETH, DNT, SNT, ANT and Flipper0x native token FL0X for all milestone tasks on Status [Open Bounty](https://openbounty.status.im) and [Ethlance](ethlance.com).
+Flipper0x is an open source project. Development will be incentivized for by placing bounties in ETH, DNT, SNT, ANT and Flipper0x native token FL0X for all milestone tasks on Status [Open Bounty](https://openbounty.status.im) and [Ethlance](https://ethlance.com).
 
 A list of bounties can be found here in the bounties repo (issues):
 https://github.com/Flipper0x/bounties
@@ -126,6 +126,6 @@ Stage 1:
 - [ ] Integrate into Status
 - [ ] Carbon voting
 
-Telegram: [T.me/Flipper0x](t.me/Flipper0x)
+Telegram: [T.me/Flipper0x](https://t.me/Flipper0x)
 
 Address: 0x4875d7B642E68F216B36737e90733eB9951D9E67
