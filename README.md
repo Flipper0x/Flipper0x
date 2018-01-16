@@ -2,7 +2,7 @@
 A Decentralized ShapeShift for small-cap tokens with continuous liquidity. 
 
 ## Problem
-Decentralised exchange is mission critical infrastructure for tokenized projects. The (0x Protocol)[https://0xproject.com] is a giant leap forward enabling the long tail of tokens. However for the time being liquidity remains thin, there is no simple mechanism for incentivizing market makers, and the [radarrelay](https://radarrelay.com) UX is too complex for the average user. 
+Decentralised exchange is mission critical infrastructure for tokenized projects. The [0x Protocol](https://0xproject.com) is a giant leap forward enabling the long tail of tokens. However for the time being liquidity remains thin, there is no simple mechanism for incentivizing market makers, and the [radarrelay](https://radarrelay.com) UX is too complex for the average user. 
 
 ## Solution
 Flipper0x is a fully decentralized ShapeShift alternative for tokens within the Aragon Network. There is no counterparty risk and Tokens listed on Flipper0x have continuous liquidity using the [Bancor Protocol](https://about.bancor.network/protocol) as an automated market maker.
